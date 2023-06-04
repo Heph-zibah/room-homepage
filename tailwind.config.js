@@ -10,6 +10,12 @@ module.exports = {
       fontFamily: {
         league: ["League Spartan", "sans-serif"],
       },
+      colors: {
+        darkGray: "hsl(0, 0%, 63%)",
+        black: "hsl(0, 0%, 0%)",
+        white: "hsl(0, 0%, 100%)",
+        veryDarkGray: "hsl(0, 0%, 27%)",
+      },
     },
   },
   plugins: [],
